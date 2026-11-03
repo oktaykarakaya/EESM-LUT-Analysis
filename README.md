@@ -53,7 +53,7 @@ The source MAT files are **not included** in this repository. Data use is subjec
 ## Citation
 
 If you use this code or the associated analysis, please cite:
-
+Karakaya, O. Interpolation–Differentiation Mismatch and Local Stability in FEA-Based Electrical-Machine Lookup Tables. Mathematics 2026, 14, 3880. https://doi.org/10.3390/math14213880
 
 ## License
 
